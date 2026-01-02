@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Courier New', Courier, monospace;
-  background: url('constructive-backdrop.jpg') no-repeat center center
+  background: url('/konstrukcja.jpg') no-repeat center center
     fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -20,20 +20,19 @@ p {
   float: left;
   clear: left;
   width: 320px;
-  background-color: #fff;
-  color: #5a514c;
+  background-color: rgb(93, 195, 232);
+  color: #000000;
   text-align: center;
 }
 
 h1 {
   margin: 50px 0 0 50px;
-  height: 175px;
-  background-image: url('constructive-logo.gif');
+  
   background-repeat: no-repeat;
   text-indent: -9999px;
-  border-top: 1px solid #bcbdc0;
-  border-left: 1px solid #bcbdc0;
-  border-right: 1px solid #bcbdc0;
+  border-top: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
 }
 
 h3 {
@@ -46,8 +45,8 @@ h3 {
   line-height: 0.8em;
   letter-spacing: -0.02em;
   text-transform: uppercase;
-  border-left: 1px solid #bcbdc0;
-  border-right: 1px solid #bcbdc0;
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
 }
 
 p {
@@ -55,9 +54,9 @@ p {
   padding: 30px 0 25px 0;
   font-weight: bold;
   text-align: center;
-  border-right: 1px solid #bcbdc0;
-  border-bottom: 1px solid #bcbdc0;
-  border-left: 1px solid #bcbdc0;
+  border-right: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  border-left: 1px solid #000000;
 }
 
 /* Border under box when you move script in the last example */
